@@ -1,0 +1,25 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "common": {
+      "buildPath": "project://build",
+      "outputName": "web-mobile",
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "web-mobile",
+      "name": "Demo 1"
+    },
+    "taskOptionsMap": {
+      "1686034961975": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "__version__": "1.0.1"
+      },
+      "1686041385412": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.5"
+  }
+}

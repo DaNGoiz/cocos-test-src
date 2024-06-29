@@ -1,0 +1,260 @@
+{
+  "35beaf85-a8d6-4ada-ae43-cec4583c1883": {
+    "url": "db://assets/Pic/Character Selection.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "35beaf85-a8d6-4ada-ae43-cec4583c1883@6c48a": {
+    "url": "db://assets/Pic/Character Selection.png@6c48a",
+    "value": {
+      "depends": [
+        "35beaf85-a8d6-4ada-ae43-cec4583c1883"
+      ]
+    }
+  },
+  "35beaf85-a8d6-4ada-ae43-cec4583c1883@f9941": {
+    "url": "db://assets/Pic/Character Selection.png@f9941",
+    "value": {
+      "depends": [
+        "35beaf85-a8d6-4ada-ae43-cec4583c1883@6c48a"
+      ]
+    }
+  },
+  "fc294991-2651-4ecf-9bae-9328f0161d22": {
+    "url": "db://assets/Pic/Selection",
+    "value": {}
+  },
+  "b9663725-124b-4ba3-b14e-a37b40836ad7": {
+    "url": "db://assets/Pic/Selection/Background.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b9663725-124b-4ba3-b14e-a37b40836ad7@6c48a": {
+    "url": "db://assets/Pic/Selection/Background.png@6c48a",
+    "value": {
+      "depends": [
+        "b9663725-124b-4ba3-b14e-a37b40836ad7"
+      ]
+    }
+  },
+  "b9663725-124b-4ba3-b14e-a37b40836ad7@f9941": {
+    "url": "db://assets/Pic/Selection/Background.png@f9941",
+    "value": {
+      "depends": [
+        "b9663725-124b-4ba3-b14e-a37b40836ad7@6c48a"
+      ]
+    }
+  },
+  "ad89f855-101c-427a-968b-94f09513f926": {
+    "url": "db://assets/Pic/Selection/Characters.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad89f855-101c-427a-968b-94f09513f926@6c48a": {
+    "url": "db://assets/Pic/Selection/Characters.png@6c48a",
+    "value": {
+      "depends": [
+        "ad89f855-101c-427a-968b-94f09513f926"
+      ]
+    }
+  },
+  "ad89f855-101c-427a-968b-94f09513f926@f9941": {
+    "url": "db://assets/Pic/Selection/Characters.png@f9941",
+    "value": {
+      "depends": [
+        "ad89f855-101c-427a-968b-94f09513f926@6c48a"
+      ]
+    }
+  },
+  "779d90cb-abfe-4989-9d34-805aa2f8d865": {
+    "url": "db://assets/Pic/Selection/Map.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "779d90cb-abfe-4989-9d34-805aa2f8d865@6c48a": {
+    "url": "db://assets/Pic/Selection/Map.png@6c48a",
+    "value": {
+      "depends": [
+        "779d90cb-abfe-4989-9d34-805aa2f8d865"
+      ]
+    }
+  },
+  "779d90cb-abfe-4989-9d34-805aa2f8d865@f9941": {
+    "url": "db://assets/Pic/Selection/Map.png@f9941",
+    "value": {
+      "depends": [
+        "779d90cb-abfe-4989-9d34-805aa2f8d865@6c48a"
+      ]
+    }
+  },
+  "c9b4ea23-24f5-4939-b46a-dde281a9a814": {
+    "url": "db://assets/Pic/Map",
+    "value": {}
+  },
+  "47a05788-0e97-4c92-9102-ac55f1e17eae": {
+    "url": "db://assets/Pic/Map/Background.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "47a05788-0e97-4c92-9102-ac55f1e17eae@6c48a": {
+    "url": "db://assets/Pic/Map/Background.png@6c48a",
+    "value": {
+      "depends": [
+        "47a05788-0e97-4c92-9102-ac55f1e17eae"
+      ]
+    }
+  },
+  "47a05788-0e97-4c92-9102-ac55f1e17eae@f9941": {
+    "url": "db://assets/Pic/Map/Background.png@f9941",
+    "value": {
+      "depends": [
+        "47a05788-0e97-4c92-9102-ac55f1e17eae@6c48a"
+      ]
+    }
+  },
+  "7e68fe32-1852-4ce9-990c-ac8d3884cfa4": {
+    "url": "db://assets/Pic/Map/Dialog.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7e68fe32-1852-4ce9-990c-ac8d3884cfa4@6c48a": {
+    "url": "db://assets/Pic/Map/Dialog.png@6c48a",
+    "value": {
+      "depends": [
+        "7e68fe32-1852-4ce9-990c-ac8d3884cfa4"
+      ]
+    }
+  },
+  "7e68fe32-1852-4ce9-990c-ac8d3884cfa4@f9941": {
+    "url": "db://assets/Pic/Map/Dialog.png@f9941",
+    "value": {
+      "depends": [
+        "7e68fe32-1852-4ce9-990c-ac8d3884cfa4@6c48a"
+      ]
+    }
+  },
+  "3efb5341-d670-4d64-9cb1-1b691311aaa2": {
+    "url": "db://assets/Pic/Map/House.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3efb5341-d670-4d64-9cb1-1b691311aaa2@6c48a": {
+    "url": "db://assets/Pic/Map/House.png@6c48a",
+    "value": {
+      "depends": [
+        "3efb5341-d670-4d64-9cb1-1b691311aaa2"
+      ]
+    }
+  },
+  "3efb5341-d670-4d64-9cb1-1b691311aaa2@f9941": {
+    "url": "db://assets/Pic/Map/House.png@f9941",
+    "value": {
+      "depends": [
+        "3efb5341-d670-4d64-9cb1-1b691311aaa2@6c48a"
+      ]
+    }
+  },
+  "2b8b7f1a-3888-4896-a5c5-18815f8c218f": {
+    "url": "db://assets/Pic/Map/Road.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2b8b7f1a-3888-4896-a5c5-18815f8c218f@6c48a": {
+    "url": "db://assets/Pic/Map/Road.png@6c48a",
+    "value": {
+      "depends": [
+        "2b8b7f1a-3888-4896-a5c5-18815f8c218f"
+      ]
+    }
+  },
+  "2b8b7f1a-3888-4896-a5c5-18815f8c218f@f9941": {
+    "url": "db://assets/Pic/Map/Road.png@f9941",
+    "value": {
+      "depends": [
+        "2b8b7f1a-3888-4896-a5c5-18815f8c218f@6c48a"
+      ]
+    }
+  },
+  "4325b73d-d288-4341-893a-66b8b96c4172": {
+    "url": "db://assets/Pic/Map/Tree.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4325b73d-d288-4341-893a-66b8b96c4172@6c48a": {
+    "url": "db://assets/Pic/Map/Tree.png@6c48a",
+    "value": {
+      "depends": [
+        "4325b73d-d288-4341-893a-66b8b96c4172"
+      ]
+    }
+  },
+  "4325b73d-d288-4341-893a-66b8b96c4172@f9941": {
+    "url": "db://assets/Pic/Map/Tree.png@f9941",
+    "value": {
+      "depends": [
+        "4325b73d-d288-4341-893a-66b8b96c4172@6c48a"
+      ]
+    }
+  },
+  "bb9f88f3-9107-475e-9447-4d299110f0d6": {
+    "url": "db://assets/Pic/Map/Well.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "bb9f88f3-9107-475e-9447-4d299110f0d6@6c48a": {
+    "url": "db://assets/Pic/Map/Well.png@6c48a",
+    "value": {
+      "depends": [
+        "bb9f88f3-9107-475e-9447-4d299110f0d6"
+      ]
+    }
+  },
+  "bb9f88f3-9107-475e-9447-4d299110f0d6@f9941": {
+    "url": "db://assets/Pic/Map/Well.png@f9941",
+    "value": {
+      "depends": [
+        "bb9f88f3-9107-475e-9447-4d299110f0d6@6c48a"
+      ]
+    }
+  },
+  "3b843b3b-fb91-4104-8faa-adf9d52269fe": {
+    "url": "db://assets/Scenes",
+    "value": {}
+  },
+  "028a4cc2-f6fd-4490-8a9a-4e3925d7b8ad": {
+    "url": "db://assets/Scenes/Map.scene",
+    "value": {
+      "depends": [
+        "028a4cc2-f6fd-4490-8a9a-4e3925d7b8ad",
+        "2b8b7f1a-3888-4896-a5c5-18815f8c218f@f9941",
+        "4325b73d-d288-4341-893a-66b8b96c4172@f9941",
+        "4325b73d-d288-4341-893a-66b8b96c4172@f9941",
+        "3efb5341-d670-4d64-9cb1-1b691311aaa2@f9941",
+        "3efb5341-d670-4d64-9cb1-1b691311aaa2@f9941",
+        "bb9f88f3-9107-475e-9447-4d299110f0d6@f9941",
+        "bb9f88f3-9107-475e-9447-4d299110f0d6@f9941",
+        "47a05788-0e97-4c92-9102-ac55f1e17eae@f9941"
+      ]
+    }
+  },
+  "14bd2f80-b37f-4af9-b1df-d4d9f7f18aea": {
+    "url": "db://assets/Pic",
+    "value": {}
+  },
+  "bd76910a-f0b4-4368-bae9-1e67475301f4": {
+    "url": "db://assets/Pic/auto-atlas.pac",
+    "value": {
+      "depends": []
+    }
+  }
+}

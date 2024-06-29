@@ -1,0 +1,7 @@
+6-6-2023 15:02:40-debug: Build project script in (10361 ms) √43%
+6-6-2023 15:02:40-debug: Build engine start...43%
+6-6-2023 15:02:40-debug: Process: heapTotal 257.50MB heapUsed 216.52MB rss 341.26MB
+6-6-2023 15:02:40-debug: excute-script over with build-script 9771ms
+6-6-2023 15:02:40-debug: Copy externalScripts success!
+6-6-2023 15:02:41-log: Run build task(build-engine) in child, see: chrome://inspect/#devices
+6-6-2023 15:02:40-debug: Engine cache ({link(/var/folders/f8/f70qrc_s3b5_4_dgr6qwh8xh0000gn/T/CocosCreator/3.7.3/builder/engine/fc807d935333dc554452dba7ff0ea37c)}) does not exist.

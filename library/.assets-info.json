@@ -1,0 +1,130 @@
+{
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Scenes.meta": {
+    "time": 1686031014737.0588
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Scenes/Map.scene.meta": {
+    "time": 1686031014743.7927
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Scenes": {
+    "time": 1686031014735.1807,
+    "uuid": "3b843b3b-fb91-4104-8faa-adf9d52269fe",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Scenes/Map.scene": {
+    "time": 1686037540805.4673,
+    "uuid": "028a4cc2-f6fd-4490-8a9a-4e3925d7b8ad",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic.meta": {
+    "time": 1686034742712.747
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic": {
+    "time": 1686034811330.4307,
+    "uuid": "14bd2f80-b37f-4af9-b1df-d4d9f7f18aea",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Selection.meta": {
+    "time": 1686030528318.8352
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Selection": {
+    "time": 1686030527921.727,
+    "uuid": "fc294991-2651-4ecf-9bae-9328f0161d22",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Selection/Background.png.meta": {
+    "time": 1686030528846.5522
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Selection/Background.png": {
+    "time": 1686030527914.7812,
+    "uuid": "b9663725-124b-4ba3-b14e-a37b40836ad7",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Selection/Map.png.meta": {
+    "time": 1686030530688.4773
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Selection/Map.png": {
+    "time": 1686030527906.673,
+    "uuid": "779d90cb-abfe-4989-9d34-805aa2f8d865",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Selection/Characters.png.meta": {
+    "time": 1686030529937.5764
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Selection/Characters.png": {
+    "time": 1686030527910.1099,
+    "uuid": "ad89f855-101c-427a-968b-94f09513f926",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Character Selection.png.meta": {
+    "time": 1686030528316.2144
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Character Selection.png": {
+    "time": 1686030527907.5203,
+    "uuid": "35beaf85-a8d6-4ada-ae43-cec4583c1883",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map.meta": {
+    "time": 1686030530689.4465
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map": {
+    "time": 1686030528057.9521,
+    "uuid": "c9b4ea23-24f5-4939-b46a-dde281a9a814",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/House.png.meta": {
+    "time": 1686030533348.879
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/House.png": {
+    "time": 1686030527922.57,
+    "uuid": "3efb5341-d670-4d64-9cb1-1b691311aaa2",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/Tree.png.meta": {
+    "time": 1686030534983.5308
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/Tree.png": {
+    "time": 1686030527911.465,
+    "uuid": "4325b73d-d288-4341-893a-66b8b96c4172",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/Road.png.meta": {
+    "time": 1686030534169.8916
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/Road.png": {
+    "time": 1686030527917.4094,
+    "uuid": "2b8b7f1a-3888-4896-a5c5-18815f8c218f",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/Dialog.png.meta": {
+    "time": 1686030532517.3782
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/Dialog.png": {
+    "time": 1686030527931.025,
+    "uuid": "7e68fe32-1852-4ce9-990c-ac8d3884cfa4",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/Well.png.meta": {
+    "time": 1686030535990.184
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/Well.png": {
+    "time": 1686030527906.3542,
+    "uuid": "bb9f88f3-9107-475e-9447-4d299110f0d6",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/Background.png.meta": {
+    "time": 1686030531492.171
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/Map/Background.png": {
+    "time": 1686030527987.1506,
+    "uuid": "47a05788-0e97-4c92-9102-ac55f1e17eae",
+    "missing": false
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/auto-atlas.pac.meta": {
+    "time": 1686034811333.203
+  },
+  "/Users/iz/Desktop/Assets/程序/自编/Cocos_Try_1/assets/Pic/auto-atlas.pac": {
+    "time": 1686034811329.3762,
+    "uuid": "bd76910a-f0b4-4368-bae9-1e67475301f4",
+    "missing": false
+  }
+}
